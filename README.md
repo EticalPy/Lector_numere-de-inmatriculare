@@ -74,7 +74,7 @@
 </ol>
 <p>&nbsp;</p>
 <p>Tutorial complet pe pagina #EticalPy din youtube:</p>
-<p>https://www.youtube.com/channel/UC4YslPY3lO8tBljm-U-zPbA</p>
+<p>https://youtu.be/0fAp_xtp6o8</p>
 <p>&nbsp;</p>
 
 
