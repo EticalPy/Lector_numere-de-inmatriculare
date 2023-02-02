@@ -1,4 +1,4 @@
-<p><strong><a href="https://files.fm/u/6u3zc3tg5#/view/detetctor%20matriculas.png"><img src="https://files.fm/thumb_show.php?i=ejr7c5uac"></a>
+<p><strong><a href="https://files.fm/u/6u3zc3tg5#/view/detetctor%20matriculas.png"></a>
 <p>&nbsp;</p>
 
 <p><strong>Pași de urmat:</strong></p>
