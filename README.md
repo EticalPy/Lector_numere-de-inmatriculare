@@ -76,8 +76,7 @@
 <p>Tutorial complet pe pagina #EticalPy din youtube:</p>
 <p>https://youtu.be/0fAp_xtp6o8</p>
 <p>&nbsp;</p>
-[![Alt text](https://img.youtube.com/vi/0fAp_xtp6o8/0.jpg)]
-(https://www.youtube.com/watch?v=0fAp_xtp6o8)
+[![Alt text](https://img.youtube.com/vi/0fAp_xtp6o8/0.jpg)](https://www.youtube.com/watch?v=0fAp_xtp6o8)
 
 
 
