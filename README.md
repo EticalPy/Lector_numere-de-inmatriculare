@@ -1,5 +1,5 @@
-<p><strong><a href="https://files.fm/u/6u3zc3tg5#/view/detetctor%20matriculas.png"></a>
-<p>&nbsp;</p>
+
+![detetctor matriculas](https://user-images.githubusercontent.com/124026170/216377953-18ea7ef2-d131-4a4e-af7d-28529115f4d5.png)
 
 <p><strong>Pași de urmat:</strong></p>
 <ol>
@@ -76,7 +76,8 @@
 <p>Tutorial complet pe pagina #EticalPy din youtube:</p>
 <p>https://youtu.be/0fAp_xtp6o8</p>
 <p>&nbsp;</p>
-
+[![Alt text](https://img.youtube.com/vi/0fAp_xtp6o8/0.jpg)]
+(https://www.youtube.com/watch?v=0fAp_xtp6o8)
 
 
 
